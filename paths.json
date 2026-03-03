@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/69a5e47110075bf113622d82/language-masters/en:/",
-    "/content/69a5e47110075bf113622d82/language-masters/en/:/en/",
-    "/content/69a5e47110075bf113622d82/language-masters/fr/:/fr/",
-    "/content/69a5e47110075bf113622d82/language-masters/fr:/fr",
-    "/content/69a5e47110075bf113622d82/language-masters/es/:/es/",
-    "/content/69a5e47110075bf113622d82/language-masters/es:/es",
-    "/content/69a5e47110075bf113622d82/language-masters/ja/:/ja/",
-    "/content/69a5e47110075bf113622d82/language-masters/ja:/ja",
-    "/content/69a5e47110075bf113622d82/language-masters/de/:/de/",
-    "/content/69a5e47110075bf113622d82/language-masters/de:/de",
-    "/content/69a5e47110075bf113622d82/configuration:/.helix/config.json",
-    "/content/69a5e47110075bf113622d82/metadata:/metadata.json",
-    "/content/69a5e47110075bf113622d82/redirects:/redirects.json",
-    "/content/69a5e47110075bf113622d82/placeholders:/placeholders.json"
+    "/content/mackenzie-ue-sandbox-fork/language-masters/en:/",
+    "/content/mackenzie-ue-sandbox-fork/language-masters/en/:/en/",
+    "/content/mackenzie-ue-sandbox-fork/language-masters/fr/:/fr/",
+    "/content/mackenzie-ue-sandbox-fork/language-masters/fr:/fr",
+    "/content/mackenzie-ue-sandbox-fork/language-masters/es/:/es/",
+    "/content/mackenzie-ue-sandbox-fork/language-masters/es:/es",
+    "/content/mackenzie-ue-sandbox-fork/language-masters/ja/:/ja/",
+    "/content/mackenzie-ue-sandbox-fork/language-masters/ja:/ja",
+    "/content/mackenzie-ue-sandbox-fork/language-masters/de/:/de/",
+    "/content/mackenzie-ue-sandbox-fork/language-masters/de:/de",
+    "/content/mackenzie-ue-sandbox-fork/configuration:/.helix/config.json",
+    "/content/mackenzie-ue-sandbox-fork/metadata:/metadata.json",
+    "/content/mackenzie-ue-sandbox-fork/redirects:/redirects.json",
+    "/content/mackenzie-ue-sandbox-fork/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/69a5e47110075bf113622d82/",
-    "/content/dam/69a5e47110075bf113622d82/"
+    "/content/mackenzie-ue-sandbox-fork/",
+    "/content/dam/mackenzie-ue-sandbox-fork/"
   ]
 }
